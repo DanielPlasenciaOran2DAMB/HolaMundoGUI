@@ -24,7 +24,7 @@ public class HolaMundo extends Application {
 		saludarButton.setText("Saludar");
 		saludarButton.setLayoutX(20);
 		saludarButton.setLayoutY(80);
-		saludarButton.setTooltip(new Tooltip("Cuando me pulses te saludo"));
+		saludarButton.setTooltip(new Tooltip("Cuando me pulses te saludo!"));
 		saludarButton.setOnAction(e -> saludoLabel.setText("¡¡¡Hola Mundo!!!"));
 		
 		// creamos el panel raíz
