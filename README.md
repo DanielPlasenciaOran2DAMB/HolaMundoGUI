@@ -1,2 +1,2 @@
 # HolaMundoGUI
- Hola Mundo en AWT, Swing y JavaFX
+ JavaFX, AWT y Swing
